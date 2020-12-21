@@ -10,6 +10,7 @@
         <button v-on:click="getUser" v-if="is_auth">Login</button>
         <button v-on:click="getRegistro" v-if="is_auth">Registro</button>
         <button v-on:click="getRoom" v-if="is_auth">Habitación</button>
+        
         <button v-if="is_auth">Cerrar Sesión</button>
 
       </nav>
