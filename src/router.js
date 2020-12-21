@@ -1,6 +1,7 @@
 import vueRouter from 'vue-router'
 import User from './components/User'
 import Home from './components/Home'
+import Temporada from './components/temporada'
 import UserRegistro from './components/UserRegistro'
 import TipoRoom from './components/TipoRoom'
 import App from './App'
